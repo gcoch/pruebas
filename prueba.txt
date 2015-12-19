@@ -1,1 +1,2 @@
-Diciembre 18 : Este es un archivo de prueba 
+Diciembre 18 : Este es un archivo de prueba
+Diciembre 19: Ahora hago cambios en github para verlos localmente
